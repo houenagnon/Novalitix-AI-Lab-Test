@@ -5,4 +5,4 @@ Package à installer :
     - pip install pandas
 
 Démarrage du serveur : 
-    - streamlit run app.py
+    - streamlit run app.pyn
